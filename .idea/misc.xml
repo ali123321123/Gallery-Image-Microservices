@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Eureka-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Server/Image-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Server/gallery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Server/gallery-server/Zuul-server/pom.xml" />
       </list>
     </option>
   </component>
