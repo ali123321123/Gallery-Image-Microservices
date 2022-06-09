@@ -1,4 +1,6 @@
-class Image {
+package com.example.imageservice.Entity;
+
+public class Image {
 
     public Image(int id, String tittle, String url) {
         this.id = id;
